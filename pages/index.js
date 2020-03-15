@@ -16,7 +16,7 @@ const IndexPage = props => {
           href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/superhero/bootstrap.min.css"
         ></link>
       </Head>
-      <main className="container">
+      <main className="container" style={{ marginBottom: 20 }}>
         <h1 className="mx-auto" style={{ width: 300 }}>
           COVID-19 Stats
         </h1>

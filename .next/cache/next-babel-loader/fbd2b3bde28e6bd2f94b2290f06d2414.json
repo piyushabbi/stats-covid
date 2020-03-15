@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const BASE_URL = \"https://covid19.mathdro.id\";","map":{"version":3,"sources":["/Users/p0a00a6/Documents/test/cvid/utils/constants.js"],"names":["BASE_URL"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAG,4BAAjB","sourcesContent":["export const BASE_URL = \"https://covid19.mathdro.id\";\n"]},"metadata":{},"sourceType":"module"}
